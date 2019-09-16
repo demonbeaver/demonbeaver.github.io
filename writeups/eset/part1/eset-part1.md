@@ -1,3 +1,6 @@
+---
+title: "ESET crackme writeup"
+---
 # ESET crackme writeup - Part 1
 
 This post is a description of my solution to the [ESET crackme](https://join.eset.com/en/challenges/crack-me). It will cover the analysis and solution of the first file, that can be downloaded from the link above.
