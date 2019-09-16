@@ -3,3 +3,12 @@ name                        : 0xRF
 title                       : The Thought Hole
 description                 : For when I feel like writing stuff down
 url:                        : https://demonbeaver.github.io
+show_downloads              : "false"
+
+# navigation:
+#   - title: Home
+#     url: /README.md
+#   - title: About
+#     url: /about
+#   - title: Writeups
+#     url: /writeups

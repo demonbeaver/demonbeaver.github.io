@@ -10,7 +10,7 @@ When clicking the "DOWNLOAD THE CRACKME.EXE PROGRAM" button on the website, the 
 
 ![First few bytes of crackme.zip](./file_format.PNG)
 
-Apparently, this is simply a PE file. I'm not sure if this is part of the challenge or a simple way to circumvent Browser warnings about downloading an executable. I change its name to crackme.exe and execute it (within a VM, of course).
+Apparently, this is simply a PE file. I'm not sure if this is part of the challenge or a simple way to circumvent browser warnings about downloading an executable. I change its name to crackme.exe and execute it (within a VM, of course).
 
 ![Executing crackme.exe](./run_first_time.PNG)
 
