@@ -13,6 +13,11 @@ Apparently, this is simply a PE file. I changed its name to crackme.exe and exec
 
 So far, so standard.
 
+## Initial Analysis
 
+The next step would be opening the file within IDA and running it with a debugger. While I do have access to an IDA license, it does not include an x86 Decompiler, and thus the analysis will be done in assembly.
+IDA recognizes the file as a standard PE and auto-analyzes it properly. Once it is done, I take a look at the Strings window and find nothing interesting at all. Specifically, the prompt displayed when running is not there:
+
+![Only boring strings here.](./no_strings_attached.PNG)
 
 [Link back home](../README.md).
