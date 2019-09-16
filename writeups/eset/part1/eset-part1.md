@@ -33,4 +33,4 @@ In WinDbg the command `bp 4013FC "r eax=0;g"` takes care of that.
 ## Deobfuscation 101
 
 
-[Link back home](/README.md).
+[Link back home](/).
