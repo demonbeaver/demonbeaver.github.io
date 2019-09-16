@@ -1,4 +1,5 @@
-theme: jekyll-theme-slate
-name: 0xRF
-title: The Thought Hole
-description: When I feel like writing stuff down
+theme                       : jekyll-theme-slate
+name                        : 0xRF
+title                       : The Thought Hole
+description                 : For when I feel like writing stuff down
+url:                        : https://demonbeaver.github.io
