@@ -28,7 +28,7 @@ Let's have a look at the beginning of the main function:
 
 There is a call to IsDebuggerPresent, which, if true, causes the program to close immediately. This is a very simple form of Anti-Debugging, as it can be circumvented with a breakpoint at 0x4013FC, where we change eax to be 0.
 
-In WinDbg, the command 'bp 4013FC "r eax=0;g"' takes care of that.
+In WinDbg the command `bp 4013FC "r eax=0;g"` takes care of that.
 
 ## Deobfuscation 101
 

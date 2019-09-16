@@ -1,4 +1,4 @@
 # Main Page
 ## (My only) Writeup (so far)
 ### eset crackme
-[Part 1](./post1/post1.md)
+[Part 1](./writeups/eset/part1/eset-part1.md)
