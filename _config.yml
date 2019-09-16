@@ -6,7 +6,7 @@ url:                        : https://demonbeaver.github.io
 show_downloads              : "false"
 
 github:
-  repository_url: https://www.youtube.com/watch?v=oHg5SJYRHA0
+  repository_url: "https://www.youtube.com/watch?v=oHg5SJYRHA0"
 
 # navigation:
 #   - title: Home
