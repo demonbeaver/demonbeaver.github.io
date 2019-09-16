@@ -2,7 +2,7 @@ theme                       : jekyll-theme-slate
 name                        : 0xRF
 title                       : The Thought Hole
 description                 : For when I feel like writing stuff down
-show_downloads              : "false"
+# show_downloads              : "false"
 
 github                      :
   repository_url            : "https://www.youtube.com/watch?v=oHg5SJYRHA0"
