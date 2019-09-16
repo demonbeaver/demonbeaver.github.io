@@ -2,11 +2,10 @@ theme                       : jekyll-theme-slate
 name                        : 0xRF
 title                       : The Thought Hole
 description                 : For when I feel like writing stuff down
-url:                        : https://demonbeaver.github.io
 show_downloads              : "false"
 
-github:
-  repository_url: "https://www.youtube.com/watch?v=oHg5SJYRHA0"
+github                      :
+  repository_url            : "https://www.youtube.com/watch?v=oHg5SJYRHA0"
 
 # navigation:
 #   - title: Home
