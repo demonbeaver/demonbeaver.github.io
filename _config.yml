@@ -65,7 +65,7 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "Writeups for crackmes/CTFs, updates and independent research" # The post list page content
+    description: "Writeups for crackmes/CTFs, personal updates and independent research. Basically a blog." # The post list page content
     feature_text: |
       I wrote this
     feature_image: "/assets/feature_images/background.jpg" # https://picsum.photos/id/1022/2560/600
