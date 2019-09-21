@@ -5,7 +5,6 @@ categories:
 - meta
 ---
 
-## The Premise
 Writing sucks. I hate it.
 <!-- more -->
 
