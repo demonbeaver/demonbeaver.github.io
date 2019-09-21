@@ -5,8 +5,8 @@ categories:
 - meta
 ---
 
-## Writing sucks
-It's true. I hate it.
+## The Premise
+Writing sucks. I hate it.
 <!-- more -->
 
 There are professions where writing is the major skill to master in order to succeed. I'm thinking law or journalism. People who work in these fields train every day in the ability to distill their thoughts into text, making it clear, compelling, convincing.
